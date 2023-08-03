@@ -6,6 +6,8 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.println("this is a new code");
 
+        System.out.println("hello");
+    
 
         }
     }
